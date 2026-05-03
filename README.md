@@ -8,7 +8,7 @@ Full Name : Farjana Ferdausi
 ## GitHub Username
 https://github.com/farjanaferdausi-cs50ai
 ## Repository Link (Public):
-https://github.com/farjanaferdausi-cs50ai/git-practice-farjana.git
+https://github.com/farjanaferdausi-cs50ai/git-practice-farjana
 
 
 ## Project Description
