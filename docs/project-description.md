@@ -1,0 +1,1 @@
+This project analyzes Titanic passenger data including survival rates and patterns.
