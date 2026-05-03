@@ -42,11 +42,19 @@ This project is inspired by the Titanic movie and includes a small illustrative 
 
 git-practice-farjana/
 │
+
 ├── README.md
+
 ├── .gitignore
+
 ├── src/
+
 │   ├── main.py
+
 │   └── utils.py
+
 │
+
 └── docs/
+
     └── project-description.md
